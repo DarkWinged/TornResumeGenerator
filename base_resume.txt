@@ -1,0 +1,5 @@
+Hello __name__, I am exploring potential business opportunities as I expand my skill set with education courses and merit advancements. As part of this endeavor, I believe that given my skills listed below, a position at __company__ could be beneficial to us both.
+
+__skills__
+
+Regards, __user__

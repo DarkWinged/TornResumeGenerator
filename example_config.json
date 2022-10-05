@@ -1,0 +1,10 @@
+{
+  "api_key": "YOUR_API_KEY",
+  "output_path": "./resumes",
+  "key_words": {
+      "__name__": "__name__",
+      "__company__": "__company__",
+      "__skills__": "__skills__",
+      "__user__": "__user__"
+  }
+}
