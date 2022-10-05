@@ -21,7 +21,7 @@ You can change the output location by editing the `"output_path"` entry in the `
 
 ## Usage
 Simply load up your favorite terminal and run the `TRG.py` like in the example below.
-`$ python3 TRG.py -o"Director_name" -c"Company_name"`
+```$ python3 TRG.py -o"Director_name" -c"Company_name"```
 
 ## Requirements
 ```
